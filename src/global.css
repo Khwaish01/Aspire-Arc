@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Wellfleet:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Neuton:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arbutus+Slab:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kotta+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kreon:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kurale:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alef:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Kannada:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-acme: Acme;
+  --font-bubblegum-sans: "Bubblegum Sans";
+  --font-noto-serif-kannada: "Noto Serif Kannada";
+  --font-alef: Alef;
+  --font-lobster: Lobster;
+  --font-kurale: Kurale;
+  --font-kreon: Kreon;
+  --font-kotta-one: "Kotta One";
+  --font-arbutus-slab: "Arbutus Slab";
+  --font-neuton: Neuton;
+  --font-montserrat-alternates: "Montserrat Alternates";
+  --font-open-sans: "Open Sans";
+  --font-wellfleet: Wellfleet;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-17xl: 36px;
+  --font-size-3xl: 22px;
+  --font-size-10xl: 29px;
+  --font-size-29xl: 48px;
+  --font-size-19xl: 38px;
+  --font-size-16xl: 35px;
+  --font-size-2xl: 21px;
+  --font-size-9xl: 28px;
+  --font-size-77xl: 96px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-21xl: 40px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #2f281e;
+  --color-gray-200: rgba(5, 0, 0, 0.95);
+  --color-mediumslateblue-100: #3a5aff;
+
+  /* Gaps */
+  --gap-sm: 14px;
+  --gap-xl: 20px;
+  --gap-3xl: 22px;
+  --gap-106xl: 125px;
+  --gap-39xl: 58px;
+  --gap-191xl: 210px;
+  --gap-104xl: 123px;
+  --gap-45xl: 64px;
+  --gap-74xl: 93px;
+  --gap-lgi: 19px;
+  --gap-40xl: 59px;
+  --gap-20xl: 39px;
+  --gap-38xl: 57px;
+  --gap-31xl: 50px;
+  --gap-35xl: 54px;
+  --gap-24xl: 43px;
+  --gap-28xl: 47px;
+  --gap-19xl: 38px;
+  --gap-29xl: 48px;
+  --gap-18xl: 37px;
+  --gap-37xl: 56px;
+  --gap-13xl: 32px;
+  --gap-12xl: 31px;
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-14xl: 33px;
+  --padding-12xs: 1px;
+  --padding-12xl: 31px;
+  --padding-21xl: 40px;
+  --padding-9xs: 4px;
+  --padding-smi: 13px;
+  --padding-7xs: 6px;
+  --padding-6xl: 25px;
+  --padding-25xl: 44px;
+  --padding-31xl: 50px;
+  --padding-2xl: 21px;
+  --padding-13xl: 32px;
+  --padding-6xs: 7px;
+  --padding-3xs: 10px;
+  --padding-11xs: 2px;
+  --padding-10xs: 3px;
+  --padding-4xl: 23px;
+  --padding-base: 16px;
+  --padding-2xs: 11px;
+  --padding-10xl: 29px;
+  --padding-4xs: 9px;
+  --padding-mid: 17px;
+  --padding-mini: 15px;
+
+  /* Border radiuses */
+  --br-381xl: 400px;
+  --br-12xs: 1px;
+  --br-7xs: 6px;
+}
